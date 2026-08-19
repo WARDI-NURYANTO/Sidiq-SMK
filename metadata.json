@@ -1,0 +1,6 @@
+{
+  "name": "Pendataan Siswa SMKN 1 Patrol - Dapodik 2027",
+  "description": "Sistem Pendataan Biodata Murid SMKN 1 Patrol standar Form F-PD Dapodik 2027 dengan Upload Dokumen, Notifikasi & Broadcast WA, Verifikasi Operator, serta Export PDF/Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
